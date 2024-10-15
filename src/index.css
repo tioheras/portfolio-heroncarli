@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Background cor sólida */
+body {
+  @apply bg-white
+}
+
+/* Custom button hover */
+button {
+  @apply transition duration-150 ease-in-out;
+}
