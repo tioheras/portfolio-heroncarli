@@ -7,7 +7,7 @@ const QualificacoesProfissionais = () => {
   return (
     <section className="p-6 bg-white my-4 flex justify-center">
       <div className="max-w-6xl text-center">
-        <h2 className="text-3xl font-semibold mb-4">qualificações profissionais</h2>
+        <h2 className="text-3xl font-semibold mb-4">Qualificações Profissionais</h2>
         <ul className="list-disc pl-6 text-2xl text-left mx-auto">
           <li className="mb-2 text-justify">
             Profissional com 8 anos de experiência em processos industriais e de saneamento, atuando nos setores de 
@@ -33,7 +33,7 @@ const QualificacoesProfissionais = () => {
           </li>
         </ul>   
 
-        <h3 className="text-3xl font-semibold mb-4 mt-8">experiências profissionais</h3>
+        <h3 className="text-3xl font-semibold mb-4 mt-8">Experiências Profissionais</h3>
         <ul className="list-disc pl-6 text-2xl text-left mx-auto">
           <li className="mb-2 text-justify">
             Desenvolvedor Backend com capacidade Fullstack / Freelancer - Atualmente.

@@ -127,7 +127,7 @@ const Projects = () => (
         }
       />
       <ProjectItem
-        title="vera cosméticos artesanais"
+        title="Vera Cosméticos Artesanais"
         description="Aplicação dedicada ao gerenciamento e venda de produtos de beleza."
         videoUrl={sabonitasVideo}
         detailedDescription={
